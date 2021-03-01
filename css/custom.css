@@ -1,0 +1,85 @@
+.CX2 .event.USER1 {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #088A29;
+}
+
+.CX2 .event.USER2 {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #B40404;
+}
+
+.CX2 .event.USER3 {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #5F04B4;
+}
+
+.CX2 .event.USER4 {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #01A9DB;
+}
+
+.CX2 .event.family {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #D7DF01;
+}
+
+.CX2 .event.REDACTED {
+  /*background-color:#5F04B4; */
+  border-style: solid;
+  border-color: #FACC2E;
+}
+
+.ha-name {
+  font-size: 34px;
+  color: white;
+  line-height: 36px;
+}
+
+.ha-value {
+  font-size: 34px;
+  color: white;
+  line-height: 36px;
+}
+.ha-img {
+  height: 60px;
+  width: 60px;
+}
+
+/* Fix underline from todoist going to calendar today class */
+.today {
+    text-decoration: none;
+}
+
+.weatherforecast .day {
+  color: white;
+}
+
+.date.normal.medium {
+  color: white;
+}
+
+.region.top.left {
+  width: 45%;
+}
+
+.region.top.center {
+  width: 10%;
+}
+
+.region.top.right {
+  width: 45%;
+}
+
+body {
+  zoom: 125%%;
+  /*background-image: url("/css/images/bg-black.jpg");*/
+}
+
+.small {
+  font-size: 26px;
+}
