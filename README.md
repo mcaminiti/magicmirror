@@ -46,12 +46,12 @@ Features:
 
 ## Config
 
-- [config.js](https://github.com/mcaminiti/magicmirror/config/config.js)
-- [custom.css](https://github.com/mcaminiti/magicmirror/css/custom.css)
+- [config.js](https://github.com/mcaminiti/magicmirror/blob/main/config/config.js)
+- [custom.css](https://github.com/mcaminiti/magicmirror/blob/main/css/custom.css)
 
-* Color outline added per user for style
-* Font size increased for modules
-* Font colors syncronized to white from gray
+      * Color outline added per user for style
+      * Font size increased for modules
+      * Font colors syncronized to white from gray
 
 ## Screenshots
 
