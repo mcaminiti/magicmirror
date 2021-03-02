@@ -36,18 +36,18 @@ Features:
 [MagicMirror Install Documentation](https://docs.magicmirror.builders/getting-started/installation.html)
 
 ## Modules
-[MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-[MMM-Todoist](https://github.com/cbrooker/MMM-Todoist)
-[MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2)
-[MMM-Pollen](https://github.com/vincep5/MMM-Pollen)
-[MMM-MyScoreboard](https://github.com/jclarke0000/MMM-MyScoreboard)
-[MMM-Wallpaper](https://github.com/kolbyjack/MMM-Wallpaper)
-[MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control)
+- [MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
+- [MMM-Todoist](https://github.com/cbrooker/MMM-Todoist)
+- [MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2)
+- [MMM-Pollen](https://github.com/vincep5/MMM-Pollen)
+- [MMM-MyScoreboard](https://github.com/jclarke0000/MMM-MyScoreboard)
+- [MMM-Wallpaper](https://github.com/kolbyjack/MMM-Wallpaper)
+- [MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control)
 
 ## Config
 
-[config.js](https://github.com/mcaminiti/magicmirror/config/config.js)
-[custom.css](https://github.com/mcaminiti/magicmirror/css/custom.css)
+- [config.js](https://github.com/mcaminiti/magicmirror/config/config.js)
+- [custom.css](https://github.com/mcaminiti/magicmirror/css/custom.css)
 
 * Color outline added per user for style
 * Font size increased for modules
